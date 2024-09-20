@@ -18,6 +18,22 @@ El sistema está desarrollado utilizando C# .NET, ADO.NET en modo conectado y SQ
 * SQL Server
 * Modelo de capas
 
+<p align="center"><b>Login</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormLogin.jpg" alt="Login">
+</div>
+<br>
+<p align="center"><b>Form Usuario</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormUsuarioLogin.jpg" alt="Form Usuario">
+</div>
+<br>
+<p align="center"><b>Form Administrador</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormAdminLogin.jpg" alt="Form Admin">
+</div>
+<br>
+
 ¡Para mirar un poco más de la funcionalidad del proyecto poder verlo en [LinkedIn](https://www.linkedin.com/posts/gregory-sair-barreto-sosa_proyecto-de-login-con-bloqueo-de-usuarios-activity-7241979570403364864-GwZ_?utm_source=share&utm_medium=member_desktop)!
 
 # Proyecto de Gestión de Productos, Categorías y Usuarios para Empresas con Login en C# .NET y SQL Server
@@ -41,5 +57,31 @@ El sistema está desarrollado utilizando C# .NET, ADO.NET en modo conectado y SQ
 * SQL Server
 * Modelo de capas
 * Patrón Singleton para la gestión de formularios
+
+<p align="center"><b>Login</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormLogin2.jpg" alt="Login">
+</div>
+<br>
+<p align="center"><b>Form Usuario</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormUsuarioLogin2.jpg" alt="Form Usuario">
+</div>
+<br>
+<p align="center"><b>Form Administrador</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormAdminLogin2.jpg" alt="Form Admin">
+</div>
+<br>
+<p align="center"><b>Form de los usuarios Bloqueados</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormAltaUsuarios.jpg" alt="Form Alta de Usuarios">
+</div>
+<br>
+<p align="center"><b>Form de los Registros</b></p>
+<div align="center">
+  <img src="https://github.com/SairBarreto/Proyecto-de-login-y-la-de-gestion-de-productos-y-categorias-para-una-empresa/blob/b3e7ada94972577338ea7e2c1713a7df2b32ef7f/Imagenes/FormRegistros.jpg" alt="Form Registros">
+</div>
+<br>
 
 ¡Para mirar un poco más de la funcionalidad del proyecto poder verlo en [LinkedIn](https://www.linkedin.com/posts/gregory-sair-barreto-sosa_proyecto-de-gesti%C3%B3n-de-productos-categor%C3%ADas-activity-7242687617832546304-7tMD?utm_source=share&utm_medium=member_desktop)!
